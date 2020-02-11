@@ -58,7 +58,7 @@
   </nav> -->
   <?php include('includes/nav.php') ?>
 
-  <!-- Header -->
+  <!-- Header 
   <header class="masthead">
     <div class="container">
       <div class="intro-text">
@@ -68,7 +68,8 @@
       </div>
     </div>
   </header>
-
+-->
+<?php include('includes/header.php') ?>
   <!-- Services -->
   <section class="page-section" id="services">
     <div class="container">
